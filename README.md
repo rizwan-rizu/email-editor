@@ -13,7 +13,7 @@ To get started, simply clone this repository and run `npm` to install dependenci
 ### Step 1 : Clone the repo
 ```
 # Run the following command to clone the repository
-git clone https://github.com/links2design/email-editor.git
+git clone https://github.com/links2design/email-editor-demo.git
 ```
 
 ### Step 2 : To go into the project folder 
