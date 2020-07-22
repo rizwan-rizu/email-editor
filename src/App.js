@@ -20,9 +20,8 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   position: relative;
-  height: 100%;
+  height: 100%;s
 `
-
 const Bar = styled.div`
   flex: 1;
   color: #000;
